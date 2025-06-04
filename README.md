@@ -1,4 +1,4 @@
-# Airbnb_NYC_forecasting
+# Airbnb NYC Forecasting
 
 ## Intro
 

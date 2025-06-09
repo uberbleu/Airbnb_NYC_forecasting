@@ -16,7 +16,7 @@ Full notebooks:
 * SARIMAX: https://colab.research.google.com/drive/1KBS35PsAbLG-pU4pf0BlKHPpQSnwm5BU?usp=sharing
 * SARIMAX hyperparameter tuning: https://colab.research.google.com/drive/1izp9bBWNbOUSR95wn59TJd-JdKZmjuYh?usp=sharing
 
-Project link with graphs and more summaries:
+Project link with graphs, code and more summaries:
 https://huszartony.super.site/95c0b3a5d941461987c6b41872a2bab4
 
 ## 1. Problem Definition
